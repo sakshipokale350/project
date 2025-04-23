@@ -6,7 +6,7 @@ STUDENT RESULT MANAGEMENT SYSTEM
 
 Submitted by : Sakshi Pokale    
 College      : G.H. Raisoni College of Commerce, Science and Technology  
-University   : RTM Nagpur University  
+University   : Nagpur University  
 Course       : B.Com (Computer Applications)  
 Year         : 2024-2025
 
